@@ -1,2 +1,2 @@
 ## Crosstabs Generator
-https://invoke-analytics-crosstabs-generator-8swlxi.streamlitapp.com/
+https://hasifsaleh-crosstabsgenerator-generator-5j9dge.streamlitapp.com/
